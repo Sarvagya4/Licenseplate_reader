@@ -10,5 +10,6 @@ involved variouns small steps like
 4) contours
 5) masking
 
+also improviing many techinueq
 
      
